@@ -21,10 +21,10 @@ export const siteConfig = {
 
 export const homePageContent = {
   hero: {
-    eyebrow: "Premium winter service equipment",
-    title: "Built for demanding snow clearance on real commercial ground.",
+    eyebrow: "Professional winter service equipment",
+    title: "Premium snow plows for serious winter service operations.",
     description:
-      "Flachenschneeschieber combines robust steel construction, clean engineering, and dependable field performance for professional winter operations.",
+      "Built for mounted real-world use on commercial, industrial, and municipal ground where reliability, visibility, and control matter every day.",
     primaryCta: {
       label: "Request a quote",
       href: "/contact",
@@ -33,8 +33,8 @@ export const homePageContent = {
       label: "Explore products",
       href: "/products",
     },
-    mediaLabel: "Reserved for the primary hero image: mounted plow in real use.",
-    mediaHint: "/public/images/home/hero-mounted-plow-01.webp",
+    mediaLabel: "Real mounted application in winter conditions",
+    mediaHint: "Professional winter service in real operating context",
   },
   advantages: [
     {
